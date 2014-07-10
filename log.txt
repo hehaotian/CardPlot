@@ -1,0 +1,190 @@
+Maximum and average lengths per each domain:
+Alarm:
+Maximum Character Length for Alarm: 19.0
+Average Character Length for Alarm: 9.710522667406073
+
+Contacts:
+Maximum Character Length for Contacts: 30.0
+Average Character Length for Contacts: 13.594701935682888
+
+HFD:
+Maximum Character Length for HFD: 33.0
+Average Character Length for HFD: 11.796730632551528
+
+Launch Apps:
+Maximum Character Length for Launch Apps: 15.0
+Average Character Length for Launch Apps: 8.42626480086114
+
+Memo:
+Maximum Character Length for Memo: 23.0
+Average Character Length for Memo: 12.51814528987818
+
+Music:
+Maximum Character Length for Music: 37.0
+Average Character Length for Music: 12.427517764518933
+
+Navigation:
+Maximum Character Length for Navigation: 18.0
+Average Character Length for Navigation: 11.885257301808068
+
+News:
+Maximum Character Length for News: 25.0
+Average Character Length for News: 8.037162162162161
+
+POI:
+Maximum Character Length for POI: 20.0
+Average Character Length for POI: 9.065487884741323
+
+Settings:
+Maximum Character Length for Settings: 15.0
+Average Character Length for Settings: 8.630350194552529
+
+System:
+Maximum Character Length for System: 16.0
+Average Character Length for System: 6.400186567164179
+
+Weather:
+Maximum Character Length for Weather: 14.0
+Average Character Length for Weather: 7.884129717319558
+
+WebSearch:
+Maximum Character Length for WebSearch: 26.0
+Average Character Length for WebSearch: 9.850849590937697
+
+Maximum and average lengths for all domains:
+Maximum Character Length for all Domains: 37.0
+Average Character Length for all Domains: 11.50237005515672
+
+Numbers of command variations for each domain sorted by priorities
+Weather:
+0	591
+1	3760
+2	9587
+Settings:
+0	5
+1	41
+2	211
+POI:
+0	209
+1	1180
+2	3192
+Memo:
+0	179
+1	2330
+2	13170
+Music:
+0	899
+1	7030
+2	25424
+HFD:
+0	1645
+1	8148
+2	12719
+Contacts:
+0	1587
+1	12230
+2	38051
+WebSearch:
+0	145
+1	4113
+2	21166
+Launch Apps:
+0	37
+1	416
+2	1405
+News:
+0	126
+1	872
+2	1370
+Navigation:
+0	87
+1	466
+2	885
+System:
+0	45
+1	302
+2	725
+Alarm:
+0	465
+1	4964
+2	16210
+
+Numbers of command variations for each domain sorted by length
+Weather:
+20	0
+10	10662
+5	1817
+20+	0
+15	1459
+Settings:
+20	0
+10	204
+5	13
+20+	0
+15	40
+POI:
+20	96
+10	2538
+5	571
+20+	0
+15	1376
+Memo:
+20	3939
+10	4736
+5	553
+20+	153
+15	6298
+Music:
+20	2156
+10	14528
+5	1366
+20+	3668
+15	11635
+HFD:
+20	5130
+10	9753
+5	1879
+20+	1311
+15	4439
+Contacts:
+20	1932
+10	22341
+5	1808
+20+	13501
+15	12286
+WebSearch:
+20	1275
+10	13901
+5	2123
+20+	561
+15	7564
+Launch Apps:
+20	0
+10	1163
+5	255
+20+	0
+15	440
+News:
+20	6
+10	1402
+5	576
+20+	102
+15	282
+Navigation:
+20	209
+10	225
+5	175
+20+	0
+15	829
+System:
+20	2
+10	436
+5	529
+20+	0
+15	105
+Alarm:
+20	731
+10	10489
+5	2168
+20+	0
+15	8251
